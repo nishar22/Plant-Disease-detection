@@ -108,8 +108,7 @@ The workflow follows these steps:
 
 ```text
 ai-plant-disease-detection/
-├── notebooks/
-│   └── 01_full_pipeline.ipynb
+├── 01_full_pipeline.ipynb
 ├── src/
 │   ├── dataset.py
 │   ├── evaluate.py
