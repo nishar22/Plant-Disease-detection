@@ -191,8 +191,4 @@ The most useful improvements would be:
 - export the model for mobile or edge-AI use
 - expand the dataset with more plant species and uncontrolled image conditions
 
-## Author
 
-**Shadi Mansoori Rad**  
-MSc Software Engineering  
-ORCID: [0009-0003-7262-527X](https://orcid.org/0009-0003-7262-527X)
