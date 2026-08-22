@@ -1,4 +1,4 @@
-# AI-Powered Plant Disease Detection and Classification System
+# Plant Disease Detection and Classification System
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.2.2-ee4c2c)
@@ -126,7 +126,7 @@ ai-plant-disease-detection/
 │   └── per_class_f1_phase2.png
 ├── requirements.txt
 ├── README.md
-└── .gitignore
+
 ```
 
 ## Running the project
