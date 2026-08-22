@@ -6,7 +6,7 @@
 
 A practical computer vision project for plant disease detection from leaf images, built with PyTorch and ResNet18 transfer learning. The project covers the full machine learning workflow: dataset preparation, stratified splitting, class imbalance handling, model training, fine-tuning, and evaluation.
 
-I developed this as my MSc Software Engineering final project, with the goal of making the work easy to understand, reproduce, and review. Alongside the main notebook, the repository includes modular Python scripts, exported metrics, and visual results used in the final report.
+I developed this as my MSc Statistics final project, with the goal of making the work easy to understand, reproduce, and review. Alongside the main notebook, the repository includes modular Python scripts, exported metrics, and visual results used in the final report.
 
 ## At a glance
 
