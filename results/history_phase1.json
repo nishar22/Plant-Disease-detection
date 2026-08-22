@@ -1,0 +1,21 @@
+{
+  "phase": "phase1_frozen_backbone",
+  "epochs": 1,
+  "learning_rate": 0.001,
+  "train_loss": [
+    1.281598
+  ],
+  "train_accuracy": [
+    0.632078
+  ],
+  "val_loss": [
+    0.648975
+  ],
+  "val_accuracy": [
+    0.821059
+  ],
+  "epoch_time_seconds": [
+    1304.8
+  ],
+  "best_val_accuracy": 0.821059
+}

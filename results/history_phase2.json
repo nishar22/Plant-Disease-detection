@@ -1,0 +1,21 @@
+{
+  "phase": "phase2_full_finetuning",
+  "epochs": 1,
+  "learning_rate": 0.0001,
+  "train_loss": [
+    0.21687
+  ],
+  "train_accuracy": [
+    0.931953
+  ],
+  "val_loss": [
+    0.067735
+  ],
+  "val_accuracy": [
+    0.976744
+  ],
+  "epoch_time_seconds": [
+    2971.8
+  ],
+  "best_val_accuracy": 0.976744
+}
